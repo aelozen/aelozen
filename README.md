@@ -60,3 +60,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="45" height="45"/>
 </p>
+
+![Snake animation](https://github.com/aelozen/aelozen/blob/output/github-contribution-grid-snake.svg)
+
