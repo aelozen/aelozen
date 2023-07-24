@@ -1,7 +1,7 @@
 
 # aelozen
 
-<h2> 👋 &nbsp; Hi there </h2>
+<h2> 👋 Hi there </h2>
 ```yaml
 * name: Alexandra Gross
 * pronouns: She/Her/Hers
@@ -58,4 +58,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="45" height="45"/>
 </p>
-          
