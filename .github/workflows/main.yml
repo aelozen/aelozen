@@ -9,6 +9,9 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
