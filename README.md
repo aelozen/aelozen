@@ -1,6 +1,8 @@
 
 # aelozen
 
+# 👋 About Me
+
 ```yaml
 * name: Alexandra Gross
 * pronouns: She/Her/Hers
