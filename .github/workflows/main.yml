@@ -21,7 +21,7 @@ jobs:
         run: |
           git checkout -b update-animation
           git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update snake animation [skip ci]"
+          git -c user.name='aelozen' -c user.email='alexgross95@gmail.com' commit -m "Update snake animation [skip ci]"
           git push -u origin update-animation
 
         env:
