@@ -19,8 +19,6 @@ jobs:
       # Commit and push the generated animation
       - name: Commit and push
         run: |
-          git config --global user.name 'aelozen'
-          git config --global user.email 'alexgross95@gmail.com'
           git checkout -b update-animation
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Update snake animation [skip ci]"
