@@ -1,7 +1,6 @@
 
 # aelozen
 
-<h2> 👋 Hi there </h2>
 ```yaml
 * name: Alexandra Gross
 * pronouns: She/Her/Hers
@@ -39,6 +38,7 @@
     ]
 
 ```
+
 <h2> 💻 &nbsp; Tools & Technologies </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45" />
