@@ -61,5 +61,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="45" height="45"/>
 </p>
 
-https://github.com/aelozen/aelozen/blob/output/github-contribution-grid-snake.svg
+(https://github.com/aelozen/aelozen/blob/output/github-contribution-grid-snake.svg)
 
