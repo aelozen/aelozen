@@ -9,7 +9,6 @@
 * located_in: Greater DC Area
 * education:
     [
-        "MITxPRO Professional Certificate in Coding: Full Stack Development with MERN",
         "Bachelor of Science in Biology, George Washington University",
         "Bachelor of Arts in Psychology, George Washington University",
     ]
