@@ -1,9 +1,9 @@
 
 # Alexandra Gross *luneboots* 
 
-### <a href="https://www.mymoonboots.com" class="custom-link">Check out my portfolio</a>
-
 # 👋 About Me
+
+Check out my portfolio *<a ref="https://www.mymoonboots.com">here</a>
 
 ```yaml
 * name: Alexandra Gross
@@ -61,9 +61,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="45" height="45"/>
 </p>
-
-<style>
-    .custom-link{
-        color:#39ff14} 
-</style>
 
