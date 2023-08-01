@@ -3,7 +3,7 @@
 
 ## luneboots
 
-# https://alexandra-gross-portfolio-0a1858564dca.herokuapp.com/
+## Check out my work and a little bit about me at https://alexandra-gross-portfolio-0a1858564dca.herokuapp.com/
 
 # 👋 About Me
 
