@@ -3,7 +3,7 @@
 
 # 👋 About Me
 
-Check out my portfolio *<a ref="https://www.mymoonboots.com">here</a>
+Check out my portfolio <a href="https://www.mymoonboots.com">here</a>
 
 ```yaml
 * name: Alexandra Gross
