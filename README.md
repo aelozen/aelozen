@@ -1,7 +1,7 @@
 
 # Alexandra Gross *luneboots* 
 
-### <a href="https://www.mymoonboots.com" style="color:#39ff14" target="_blank">Check out my portfolio</a>
+### <a href="https://www.mymoonboots.com" class="custom-link">Check out my portfolio</a>
 
 # 👋 About Me
 
@@ -62,5 +62,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="45" height="45"/>
 </p>
 
-
+<style>
+    .custom-link{
+        color:#39ff14} 
+</style>
 
