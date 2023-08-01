@@ -1,7 +1,7 @@
 
 # Alexandra Gross *luneboots* 
 
-### *https:www.mymoonboots.com/*
+### *www.mymoonboots.com*
 
 # 👋 About Me
 
