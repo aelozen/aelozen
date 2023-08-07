@@ -1,5 +1,5 @@
 
-# Alexandra Gross *luneboots* 
+# *luneboots* 
 
 # 👋 About Me
 
