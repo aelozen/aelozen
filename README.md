@@ -27,8 +27,8 @@ Check out my portfolio <a href="https://www.mymoonboots.com">here</a>
 
 * technical_background:
     [
-        "Student - Full Stack Developement",
-        "Trainee - Programmer, Statistical Analysis",
+        "Certificate - Full Stack Developement", MIT xPRO Full Stack Development with MERN
+        "OTJ Training - Programmer, Statistical Analysis",
     ]
 
 * currently_learning:
