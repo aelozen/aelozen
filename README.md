@@ -7,7 +7,6 @@ Check out my portfolio <a href="https://www.mymoonboots.com">here</a>
 
 ```yaml
 * name: Alexandra Gross
-* pronouns: She/Her/Hers
 * located_in: Greater DC Area
 * education:
     [
